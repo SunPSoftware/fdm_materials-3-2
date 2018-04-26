@@ -17,7 +17,7 @@ Generic PLA profile. The data in this file may not be correct for your specific 
     </metadata>
     <properties>
         <density>1.15</density>
-        <diameter>0.250</diameter>
+        <diameter>14</diameter>
     </properties>
     <settings>
         <setting key="print temperature">0</setting>
