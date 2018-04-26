@@ -17,7 +17,7 @@ Generic PLA 1.75mm profile. The data in this file may not be correct for your sp
     </metadata>
     <properties>
         <density>1.15</density>
-        <diameter>14</diameter>
+        <diameter>10</diameter>
     </properties>
     <settings>
         <setting key="print temperature">0</setting>
