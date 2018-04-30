@@ -7,7 +7,7 @@ Generic Pluronic 10mm syringe profile. The data in this file may not be correct 
         <name>
             <brand>Sigma-Aldrich (P2443)</brand>
             <material>Pluronic F-127</material>
-            <color>Colorless</color>
+            <color>Generic</color>
         </name>
         <GUID>0ff92885-617b-4144-a03c-9989872454bc</GUID>
         <version>1</version>
