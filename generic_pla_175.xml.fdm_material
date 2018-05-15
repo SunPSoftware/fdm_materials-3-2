@@ -20,9 +20,9 @@ Generic Pluronic 10mm syringe profile. The data in this file may not be correct 
         <diameter>10</diameter>
     </properties>
     <settings>
-        <setting key="print temperature">-28</setting>
+        <setting key="print temperature">0</setting>
         <setting key="heated bed temperature">37</setting>
-        <setting key="standby temperature">-28</setting>
+        <setting key="standby temperature">0</setting>
 
 
         <machine>
